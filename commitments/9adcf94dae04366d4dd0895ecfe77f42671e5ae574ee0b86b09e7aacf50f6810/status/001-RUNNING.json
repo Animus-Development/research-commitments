@@ -1,0 +1,8 @@
+{
+  "detail": "Tooling lifecycle exercise; DB transition mirrored.",
+  "prev_status_commit": "cac63939ba3949e7ca422b395cc65e3154b23283",
+  "registration_doc_sha256": "9adcf94dae04366d4dd0895ecfe77f42671e5ae574ee0b86b09e7aacf50f6810",
+  "schema_version": 2,
+  "sequence": 1,
+  "status": "RUNNING"
+}
