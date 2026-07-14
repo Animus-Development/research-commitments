@@ -1,0 +1,8 @@
+{
+  "detail": "Tooling-validation smoke #2 terminal: lifecycle exercised; no statistical claim.",
+  "prev_status_commit": "889c710c8f7fba8ec8057f70199faa087806d1ba",
+  "registration_doc_sha256": "9adcf94dae04366d4dd0895ecfe77f42671e5ae574ee0b86b09e7aacf50f6810",
+  "schema_version": 2,
+  "sequence": 2,
+  "status": "FAILED"
+}
