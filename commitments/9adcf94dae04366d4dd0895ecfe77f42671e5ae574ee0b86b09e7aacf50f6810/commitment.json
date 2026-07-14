@@ -1,0 +1,9 @@
+{
+  "disclosure": "hash-only-until-confirmatory-claim",
+  "family": "tooling",
+  "ots_proof": "proof.ots",
+  "registration_doc_sha256": "9adcf94dae04366d4dd0895ecfe77f42671e5ae574ee0b86b09e7aacf50f6810",
+  "registration_id": "806835ed-39c4-4c59-85db-28d71f2e082b",
+  "schema_version": 2,
+  "spec_sha256": "9db87d3bad23719764b575a1bce1a1980debb8e529b5a5c0c91e4a9727fde69f"
+}
