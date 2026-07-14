@@ -1,0 +1,15 @@
+{
+  "dataset_manifest_sha256": "ed7db63d4398f4ea8e0024393799d66cdb3b246babc578d1b6a9236789fb16ed",
+  "family": "tooling",
+  "gates": {
+    "tooling_only": "no statistical gate; lifecycle exercised then terminal"
+  },
+  "harness_tree_sha256": "6774a254acee4e5101867d216891f2d56d2a5d6633cde643f2dde073da7530ff",
+  "hypothesis": "P2a tooling validation #2: fresh-publication path on the reworked async withClone + hardened status chain. Exercises: strict parse, spec_sha256, OTS anchor, hash-only publication, anonymous-visibility check, DB index, RUNNING/FAILED lifecycle mirroring, disclosure, and verify_confirmatory refusal semantics. Withdrawn-or-failed by design.",
+  "iteration_budget": 1,
+  "parameter_grid": {
+    "smoke": 2
+  },
+  "registration_id": "806835ed-39c4-4c59-85db-28d71f2e082b",
+  "spec_version": 1
+}

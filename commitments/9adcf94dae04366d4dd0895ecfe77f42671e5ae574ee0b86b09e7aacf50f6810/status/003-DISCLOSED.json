@@ -1,0 +1,8 @@
+{
+  "detail": "Tooling smoke #2 disclosure test: FAILED registration disclosed at exercise end (family retirement analogue).",
+  "prev_status_commit": "18b0b59d117c2e6549d60bba209b2be1df06f587",
+  "registration_doc_sha256": "9adcf94dae04366d4dd0895ecfe77f42671e5ae574ee0b86b09e7aacf50f6810",
+  "schema_version": 2,
+  "sequence": 3,
+  "status": "DISCLOSED"
+}
