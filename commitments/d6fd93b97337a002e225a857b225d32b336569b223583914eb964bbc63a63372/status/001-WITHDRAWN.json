@@ -1,0 +1,7 @@
+{
+  "detail": "Tooling-validation smoke registration ffeeaa34: flow verified end-to-end; withdrawn by design, no statistical claim. DB status WITHDRAWN 2026-07-14T10:52Z.",
+  "registration_doc_sha256": "d6fd93b97337a002e225a857b225d32b336569b223583914eb964bbc63a63372",
+  "schema_version": 1,
+  "sequence": 1,
+  "status": "WITHDRAWN"
+}
